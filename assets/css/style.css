@@ -1,0 +1,95 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #000729;
+}
+
+canvas {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+button,
+div,
+form,
+input {
+  margin: 10px;
+  font-family: 'Oswald', sans-serif;
+    }
+
+.spaceGif {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h3 {
+  text-align: center;
+  color:white;  
+  margin: 30px;
+  padding: 10px;
+  padding-top: 25px;
+  font-size: 60px;
+  font-family: 'Oswald', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color:white;  
+  font-family: 'Oswald', sans-serif;
+}
+
+.topheading {
+  padding: 10px;
+  padding-top: 25px;
+  font-family: 'Oswald', sans-serif;
+}
+
+#footer {
+  background-color: #001f3f;
+  color: white;
+  padding: 15px;
+  font-size: 15px;
+}
+
+#whitetext {
+  color:white;
+  font-size: 25px;
+  font-family: 'Oswald', sans-serif; 
+}
+
+img {
+  padding: 30px;
+}
+
+.fas {
+  color: white;
+  size: 10px;
+  font-size: 3em;
+}
+
+.spaceGif{
+  padding: 10px;
+  text-align: center;
+}
+
+p {
+  color: white;
+  font-size: 25px;
+}
+#spaceButtons {
+  font-family: 'Oswald', sans-serif; 
+}
+
+.spaceClass:hover, .spaceClass:focus, .spaceClass:active, .spaceClass.active {
+  color: #fff;
+  background-color: #0d768d;
+  border-color: #0b4170; 
+}
+
